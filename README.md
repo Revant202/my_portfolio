@@ -1,13 +1,3 @@
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
-</h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
-
-<br/>
-
-
 
 ## Built With
 
@@ -50,7 +40,7 @@ Open the project folder and Navigate to `/src/components/`. <br/>
 You will find all the components used and you can edit your information accordingly.
 
 ## Deployment
-<a href="https://portfolio-three-zeta-47.vercel.app/">
+<a href="https://portfolio-three-zeta-47.vercel.app/">visit website<a/>
 
 ### Show your support
 
